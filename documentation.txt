@@ -1,0 +1,3 @@
+install requirement file: pip install -r requirements.txt
+install setup.py file: python setup.py install
+install egg file: python -m easy_install eggfile_path

@@ -1,0 +1,11 @@
+Pillow==6.2.1
+pandas==0.25.3
+opencv-python==4.1.1.26
+numpy==1.17.4
+PyPDF2==1.26.0
+scipy==1.1.0
+requests==2.21.0
+azure.cognitiveservices.vision.computervision==0.5.0
+msrest==0.6.10
+argparse==1.4.0
+regex==2017.9.23
